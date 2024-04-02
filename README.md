@@ -1,6 +1,6 @@
 # Heart-disease-prediction-using-ML
 Aim : Machine Learning app for predicting Heart chances of Heart disease and giving Remedies according to the condition of the heart <br>
-Dataset Link : https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files <br><hr>
+Dataset Link files <br><hr>
 <b><h3>This ML model is build on a dataset and will predict 94% true results but we still request you to have a consultation with the doctor </h3></b>
 <b> For input values you can also refer to the Documentation PDF in the dame folder</b>
 <hr>
